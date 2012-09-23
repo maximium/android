@@ -28,8 +28,9 @@
 
 <!--
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="froyo" />
-  -->
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="froyo" />
+  -->
+  
   <project path="external/apache-http" name="platform/external/apache-http" revision="froyo" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="bash-4.1-froyo" />
