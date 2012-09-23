@@ -26,7 +26,9 @@
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" revision="froyo-stable" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" revision="froyo-stable" />
 
+<!--
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="froyo" />
+  -->
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="froyo" />
   <project path="external/apache-http" name="platform/external/apache-http" revision="froyo" />
   <project path="external/astl" name="platform/external/astl" />
